@@ -2,6 +2,7 @@
 
 Integrantes de proyecto:
 ELS0L1DEV
+<br>
 JAGG250
 
 Proyecto hecho en Python y SQL SERVER
